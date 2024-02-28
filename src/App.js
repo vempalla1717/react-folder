@@ -13,8 +13,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-this is a react project   
-<h1>This is suneelproject</h1>
+this is a react project
+<h1>This is suneelproject 1.0</h1>
      </a>
       </header>
     </div>
