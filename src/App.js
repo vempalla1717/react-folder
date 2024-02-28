@@ -14,7 +14,7 @@ function App() {
           rel="noopener noreferrer"
         >
 this is a react project
-<h1>This is suneelproject 1.0</h1>
+<h1>This is suneelproject 2.0</h1>
      </a>
       </header>
     </div>
