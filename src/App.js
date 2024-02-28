@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        <img src={logo} className="App-logo" alt="logo" />
        
         <a
           className="App-link"
@@ -13,8 +13,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-this is a react project   
-<h1>This is suneelproject</h1>
+this is a react project
+<h1>This is suneelproject 2.0</h1>
      </a>
       </header>
     </div>
